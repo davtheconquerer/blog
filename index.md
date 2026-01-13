@@ -5,4 +5,5 @@ title: Home
 
 # Welcome
 
-This is my blog homepage written in Markdown.
+This is the starting page to my blog.
+See my first blog post [here](_posts/2026-01-13.md)
