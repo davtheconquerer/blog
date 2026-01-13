@@ -1,3 +1,8 @@
-# This is the starting page of my blog website
+---
+layout: home
+title: Home
+---
 
-I'll link files together like [this](blogs/demo.md).
+# Welcome
+
+This is my blog homepage written in Markdown.
